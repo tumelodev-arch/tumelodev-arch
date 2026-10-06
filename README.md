@@ -20,7 +20,7 @@ I am early in my career and use this profile to show what I have built, what I a
 
 ## Current Projects
 
-- [Personal portfolio](https://github.com/tumelodev-arch/tumelodev-arch.github.io) — a lightweight static site for my experience, work, and CV.
+- [Live portfolio](https://tumelodev-arch.github.io/) · [source repository](https://github.com/tumelodev-arch/tumelodev-arch.github.io) — a lightweight static site for my experience, work, and CV.
 - **CloudOps AI Assistant** — planned: an auditable assistant for cloud-operations workflows. I will publish it when there is a working implementation and reproducible evidence.
 - **SentinelOps Monitoring Platform** — planned: an observability-focused service demonstrating telemetry, alerting, and operational runbooks.
 - **AgentForge** — planned: a constrained multi-agent engineering workflow with human approval and evaluation.
