@@ -26,7 +26,7 @@ I build and document software with a focus on **application behaviour, validatio
 ## `$ cat skills.txt`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,py,sql,git,github,azure,postman&perline=6" alt="C sharp, .NET, Angular, TypeScript, JavaScript, Python, SQL, Git, GitHub, Azure and Postman icons">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,py,aws,git,github,azure,postman&perline=6" alt="C sharp, .NET, Angular, TypeScript, JavaScript, Python, SQL, Git, GitHub, Azure and Postman icons">
 </p>
 
 ```yaml
@@ -75,6 +75,12 @@ currently_building:
 </p>
 
 > **Demo boundary:** RuleTrace uses a separate browser-side example; its .NET API is not publicly hosted. ReleaseLens uses invented sample records and is not connected to a live CI provider.
+
+## `$ git log --graph --all --format='%C(auto)%h %s'`
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Isometric GitHub contribution calendar generated from public activity" width="100%">
+</p>
 
 ## `$ metrics --user tumelodev-arch`
 
