@@ -1,58 +1,114 @@
 # Tumelo Junior Phale
 
-**Graduate Software Engineer at Sage | C#/.NET | Cloud-Native Systems | AI & Platform Engineering**
+**Graduate Software Engineer | C#/.NET | Angular/TypeScript | Cloud-Native Engineering**
 
-Johannesburg, South Africa · [Email](mailto:tumelojuniorphale@gmail.com) · [LinkedIn](https://www.linkedin.com/in/tumelo-junior-phale-a6579527b/)
+Johannesburg, South Africa · [LinkedIn](https://www.linkedin.com/in/tumelo-junior-phale-a6579527b/) · [Portfolio](https://tumelodev-arch.github.io/)
 
 ## About Me
 
-I build and test product features for a multi-country payroll platform at Sage. My day-to-day work includes C#/.NET and Angular/TypeScript changes, test automation, pull-request workflows, and verifying changes in delivery pipelines. I hold a BSc in Information Technology from North-West University.
+I'm a Graduate Software Engineer at Sage, with a foundation in building and testing application features using C#/.NET and Angular/TypeScript. My professional experience includes working with a multi-country payroll platform, contributing to application changes, test automation, pull-request workflows, and delivery-pipeline validation.
 
-I am early in my career and use this profile to show what I have built, what I am learning, and how I validate the work. My direction is cloud-native software engineering, with deeper capability in distributed systems, AWS, AI engineering, and platform engineering.
+I hold a BSc in Information Technology from North-West University.
 
-## Technical Focus
+I'm developing my capabilities beyond application development toward cloud-native systems, distributed systems, observability, platform engineering, and AI engineering. I use this profile to document my technical growth, demonstrate working software, and share engineering decisions supported by evidence.
 
-- **Product engineering:** C#/.NET, REST APIs, CQRS boundaries, Angular, TypeScript, SQL
-- **Quality and delivery:** unit and end-to-end testing, Cypress, Vitest, Azure DevOps Pipelines, pull-request validation
-- **Cloud foundations:** AWS architecture and hands-on learning in ECS, Fargate, EC2, and load balancing
-- **Systems:** distributed-system fundamentals, reliability, observability, infrastructure automation
-- **AI engineering:** role-based agent design, tool boundaries, orchestration, and evaluation as areas of active development
+## Technical Experience and Focus
 
-## Current Projects
+### Application Engineering
 
-- [Live portfolio](https://tumelodev-arch.github.io/) · [source repository](https://github.com/tumelodev-arch/tumelodev-arch.github.io) — a lightweight static site for my experience, work, and CV.
-- **CloudOps AI Assistant** — planned: an auditable assistant for cloud-operations workflows. I will publish it when there is a working implementation and reproducible evidence.
-- **SentinelOps Monitoring Platform** — planned: an observability-focused service demonstrating telemetry, alerting, and operational runbooks.
-- **AgentForge** — planned: a constrained multi-agent engineering workflow with human approval and evaluation.
+- **Languages and frameworks:** C#, .NET, ASP.NET Core, Angular, TypeScript and SQL.
+- **API and application design:** REST APIs, CQRS concepts, application validation and maintainable service boundaries.
+- **Product development:** Contributing to application features, investigating defects, and working within established development and review processes.
 
-The three flagship projects are roadmap items, not claims of completed or production experience.
+### Testing and Software Quality
 
-## Tech Stack
+- **Testing tools:** Cypress and Vitest.
+- **Quality practices:** Automated testing, test-driven investigation, regression awareness and validation of expected behaviour.
+- **Delivery workflows:** Git, pull requests, Azure DevOps Pipelines and CI/CD troubleshooting.
 
-| Used in current work | Learning and building toward |
-| --- | --- |
-| C#, .NET, Angular, TypeScript, SQL | AWS, Terraform, Docker, Kubernetes fundamentals |
-| Cypress, Vitest, Azure DevOps, Git | OpenTelemetry, distributed systems, platform engineering |
-| REST APIs, CQRS, localization | LLM tool use, RAG, agent evaluation |
+My focus is on building confidence in changes through repeatable checks, clear failure investigation and evidence-based verification.
 
-## Cloud Experience
+### Cloud and Platform Engineering
 
-My professional delivery experience includes Azure DevOps pipelines and pull-request validation. My AWS experience is currently learning-focused: I have worked through scenarios involving ECS task sizing, Fargate behind a load balancer, and EC2 launch-template updates. I am building toward independently deployable, observable AWS examples; I do not present this learning as production AWS ownership.
+My professional delivery experience includes working with Azure DevOps pipelines and pull-request validation.
 
-## AI Experience
+I'm currently developing my AWS knowledge through hands-on learning and technical scenarios involving:
 
-I have explored role-based agent design by defining coordinator and specialist responsibilities and limiting tool access. My next step is to turn those concepts into a tested application with explicit human approval, traceable runs, evaluation data, and safe failure behavior—not another chat UI.
+- Amazon ECS and AWS Fargate.
+- EC2 launch templates and infrastructure changes.
+- Load balancers and service deployment fundamentals.
+- Cloud architecture, reliability and operational troubleshooting.
 
-## Featured Projects
+My goal is to progress toward independently deploying and operating observable, reliable services. I distinguish this learning from production AWS ownership.
 
-Public, finished project work is still growing. The portfolio repository is currently the main implementation to review. I will feature the flagships here only after each has working code, tests, architecture documentation, a reproducible deployment, and a clear statement of limitations.
+### AI Engineering
 
-## Career Vision
+I'm exploring how AI systems can support engineering workflows through:
 
-Become a dependable cloud-native software engineer who can take a service from problem definition through implementation, testing, deployment, and operation—and apply AI where it measurably improves engineering work.
+- Coordinator and specialist responsibilities in agent-based designs.
+- Explicit tool boundaries and controlled access.
+- Human approval for consequential actions.
+- Traceable execution, evaluation and safe failure behaviour.
 
-## Contact Information
+My next step is to turn these concepts into a tested application with measurable behaviour, rather than presenting an unimplemented design as a completed project.
 
-- Email: [tumelojuniorphale@gmail.com](mailto:tumelojuniorphale@gmail.com)
-- LinkedIn: [Tumelo Junior Phale](https://www.linkedin.com/in/tumelo-junior-phale-a6579527b/)
-- GitHub: [@tumelodev-arch](https://github.com/tumelodev-arch)
+## Selected Work
+
+### Personal Engineering Portfolio
+
+[Live website](https://tumelodev-arch.github.io/) · [Source repository](https://github.com/tumelodev-arch/tumelodev-arch.github.io)
+
+A static website presenting my background, technical direction, portfolio and CV.
+
+**Status:** Active portfolio. This is a presentation project, not a claim of a completed cloud platform or production service.
+
+### CloudOps AI Assistant
+
+**Status: Planned**
+
+A proposed assistant for cloud-operations workflows, with controlled tool access, auditable actions and human approval where appropriate.
+
+### SentinelOps Monitoring Platform
+
+**Status: Planned**
+
+A proposed observability-focused service demonstrating telemetry, alerting, operational documentation and failure investigation.
+
+### AgentForge
+
+**Status: Planned**
+
+A proposed constrained multi-agent engineering workflow focused on tool boundaries, evaluation and human oversight.
+
+These three projects are roadmap ideas, not completed implementations. I'll feature them as engineering projects when working code, tests and reproducible evidence are available.
+
+## Engineering Principles
+
+I aim to approach engineering work with a focus on:
+
+1. Understanding the problem and its constraints before implementation.
+2. Designing maintainable solutions with clear responsibilities.
+3. Validating behaviour through appropriate automated and manual tests.
+4. Investigating defects using evidence rather than assumptions.
+5. Understanding deployment, observability and failure recovery.
+6. Documenting decisions, limitations and lessons learned.
+
+I'm particularly interested in the connection between sound application engineering and the reliability of the systems that run it.
+
+## Current Learning Roadmap
+
+My development priorities are:
+
+- Strengthen .NET application design, testing and API development.
+- Build practical AWS deployment and infrastructure skills.
+- Develop deeper understanding of distributed systems and service reliability.
+- Learn observability practices using structured logs, metrics and traces.
+- Build and evaluate AI-assisted engineering workflows with explicit safeguards.
+
+I aim to demonstrate these capabilities through reproducible projects rather than listing technologies without supporting evidence.
+
+## Contact
+
+- [LinkedIn — Tumelo Junior Phale](https://www.linkedin.com/in/tumelo-junior-phale-a6579527b/)
+- [Portfolio](https://tumelodev-arch.github.io/)
+- [GitHub repositories](https://github.com/tumelodev-arch)
