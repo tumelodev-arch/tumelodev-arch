@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tumelodev-arch.github.io/"><img src="https://img.shields.io/badge/Portfolio-live-39ff88?style=flat-square&labelColor=0d1117" alt="Live portfolio"></a>
-  <a href="https://www.linkedin.com/in/tumelo-junior-phale-a6579527b/"><img src="https://img.shields.io/badge/LinkedIn-connect-39ff88?style=flat-square&labelColor=0d1117" alt="LinkedIn profile"></a>
-  <a href="https://github.com/tumelodev-arch?tab=repositories"><img src="https://img.shields.io/badge/GitHub-repositories-e8f0e9?style=flat-square&labelColor=0d1117" alt="Repositories"></a>
+  <a href="https://tumelodev-arch.github.io/"><img src="https://img.shields.io/badge/Portfolio-live-39ff88?style=flat-square&labelColor=0b100d" alt="Live portfolio"></a>
+  <a href="https://www.linkedin.com/in/tumelo-junior-phale-a6579527b/"><img src="https://img.shields.io/badge/LinkedIn-connect-39ff88?style=flat-square&labelColor=0b100d" alt="LinkedIn profile"></a>
+  <a href="https://github.com/tumelodev-arch?tab=repositories"><img src="https://img.shields.io/badge/GitHub-repositories-e8f0e9?style=flat-square&labelColor=0b100d" alt="Repositories"></a>
 </p>
 
 ## `$ whoami`
