@@ -1,133 +1,52 @@
-<p align="center">
-  <img src="./assets/profile-terminal.svg" alt="Terminal-style banner reading Tumelo Phale — Software Engineering, .NET, TypeScript and Quality" width="100%">
-</p>
+# Tumelo Phale
 
-<p align="center">
-  <a href="https://tumelodev-arch.github.io/"><img src="https://img.shields.io/badge/Portfolio-live-39ff88?style=flat-square&labelColor=0b100d" alt="Live portfolio"></a>
-  <a href="https://www.linkedin.com/in/tumelo-junior-phale-a6579527b/"><img src="https://img.shields.io/badge/LinkedIn-connect-39ff88?style=flat-square&labelColor=0b100d" alt="LinkedIn profile"></a>
-  <a href="https://github.com/tumelodev-arch?tab=repositories"><img src="https://img.shields.io/badge/GitHub-repositories-e8f0e9?style=flat-square&labelColor=0b100d" alt="Repositories"></a>
-</p>
+**Software Engineer | Cloud · Security · Reliability**
 
-## `$ whoami`
+I have professional experience across **C#/.NET backends and Angular/TypeScript frontends**. My work has included application features, business-rule validation, automated testing, defect investigation and delivery workflows. I am developing deeper capability in cloud systems, application security and service reliability.
 
-```console
-tumelo@github:~$ whoami
-Tumelo Phale
+**[Portfolio](https://tumelodev-arch.github.io/) · [Projects](https://tumelodev-arch.github.io/work.html) · [LinkedIn](https://www.linkedin.com/in/tumelo-junior-phale-a6579527b/)**
 
-tumelo@github:~$ cat ~/.profile
-role        Software Engineer
-focus       .NET · TypeScript · Application Quality
-location    Johannesburg, South Africa
-approach    Understand → Implement → Test → Explain
-```
+## Technical foundation
 
-I build and document software with a focus on **application behaviour, validation, testing and reliable delivery**. This profile is a working record of projects I can demonstrate, engineering choices I can explain, and areas I am actively developing.
+- **Application development:** C#, .NET, ASP.NET Core, Angular, TypeScript, JavaScript, REST APIs and SQL.
+- **Testing and delivery:** validation and negative-path testing, regression checks, Cypress E2E, Git, pull requests, CI troubleshooting and technical documentation.
+- **Current learning:** AWS foundations, service health, security review, failure diagnosis and cloud-aware service design.
 
-## `$ cat skills.txt`
+## Selected work
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,aws,git,github,azure,postman&perline=6" alt="C sharp, .NET, Angular, TypeScript, JavaScript, HTML, CSS, AWS, Git, GitHub, Azure and Postman icons">
-</p>
+### [Randwise](https://github.com/tumelodev-arch/Randwise)
+A local-first cash-flow planner with editable transactions, monthly summaries, category breakdowns and CSV export.
 
-```yaml
-application:
-  - C# / .NET / ASP.NET Core
-  - Angular / TypeScript / JavaScript
-  - SQL / REST APIs
+[Live demo](https://tumelodev-arch.github.io/Randwise/) · [Source and setup](https://github.com/tumelodev-arch/Randwise)
 
-quality_and_delivery:
-  - Input validation and negative testing
-  - Unit-testing practices and Cypress E2E
-  - Git, pull requests and CI troubleshooting
-  - Defect investigation and technical documentation
+### [Incident Atlas](https://github.com/tumelodev-arch/IncidentAtlas)
+A local incident review log with severity/state filtering, impact and response notes, resolution metrics and JSON export. It is not a monitoring or paging platform.
 
-currently_building:
-  - AWS foundations and cloud delivery
-  - Service observability and reliability
-  - Secure service operation
-```
+[Live demo](https://tumelodev-arch.github.io/IncidentAtlas/) · [Source and setup](https://github.com/tumelodev-arch/IncidentAtlas)
 
-## `$ ls ~/projects`
+### [Decision Archive](https://github.com/tumelodev-arch/DecisionArchive)
+An Architecture Decision Record workspace with search, lifecycle status, Markdown export and JSON backup/restore.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://tumelodev-arch.github.io/projects/RuleTrace/demo.html">01 / RuleTrace</a></h3>
-      <p>Rule-by-rule validation for synthetic records, with explicit outcomes and explanations.</p>
-      <p><strong>Stack:</strong> C# · ASP.NET Core · xUnit</p>
-      <p><strong>Status:</strong> Browser demo live; API runs locally.</p>
-      <p><a href="https://github.com/tumelodev-arch/tumelodev-arch.github.io/tree/main/projects/RuleTrace">Source</a> · <a href="https://github.com/tumelodev-arch/tumelodev-arch.github.io/blob/main/projects/RuleTrace/ARCHITECTURE.md">Architecture</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://tumelodev-arch.github.io/projects/ReleaseLens/index.html">02 / ReleaseLens</a></h3>
-      <p>An interactive dashboard for exploring sample build history, outcomes and failure categories.</p>
-      <p><strong>Stack:</strong> TypeScript · HTML · CSS</p>
-      <p><strong>Status:</strong> Live static demo with filtering and CSV export.</p>
-      <p><a href="https://github.com/tumelodev-arch/tumelodev-arch.github.io/tree/main/projects/ReleaseLens">Source</a></p>
-    </td>
-  </tr>
-</table>
+[Live demo](https://tumelodev-arch.github.io/DecisionArchive/) · [Source and setup](https://github.com/tumelodev-arch/DecisionArchive)
 
-## `$ ./tools --list`
+These applications store records in the current browser. They have no backend, account system, cloud sync or shared storage. Use synthetic or non-sensitive data.
 
-| Tool | Purpose | Availability / source |
-| --- | --- | --- |
-| **[Randwise](https://github.com/tumelodev-arch/Randwise)** | Monthly cash-flow tracking, spending breakdown and filtered CSV export. | Pages setup pending · [Source ↗](https://github.com/tumelodev-arch/Randwise) |
-| **[Incident Atlas](https://github.com/tumelodev-arch/IncidentAtlas)** | Incident logging, severity/state changes, resolution metrics and JSON export. | Pages setup pending · [Source ↗](https://github.com/tumelodev-arch/IncidentAtlas) |
-| **[Decision Archive](https://github.com/tumelodev-arch/DecisionArchive)** | Searchable architecture decisions with Markdown export and JSON backup/restore. | Pages setup pending · [Source ↗](https://github.com/tumelodev-arch/DecisionArchive) |
+## Next substantial build
 
-Each is a local-first browser application with source code available now. GitHub Pages deployment is not active yet for these three repositories, so the browser demos are not presented as live links. Once Pages is enabled and a deployment succeeds, their own repositories will host the applications. Records remain in the current browser and are not synchronised to a server; use synthetic or non-sensitive data only.
+**Cloud Service Router** is planned, not implemented. The goal is to build a small .NET service where request contracts, validation, health reporting, logs, timeouts and failure behaviour can be inspected and tested. I will publish it after the code and tests provide real evidence.
 
-<p align="center">
-  <a href="https://tumelodev-arch.github.io/"><strong>Open the portfolio →</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://tumelodev-arch.github.io/work.html"><strong>Read the case studies →</strong></a>
-</p>
+## Engineering approach
 
-> **Demo boundary:** RuleTrace uses a separate browser-side example; its .NET API is not publicly hosted. ReleaseLens uses invented sample records and is not connected to a live CI provider.
+- Reproduce a behaviour before changing code.
+- Separate evidence from assumptions.
+- Make validation and error paths explicit.
+- Test invalid inputs as well as expected flows.
+- Document limitations and verify claims independently.
 
-## `$ git log --graph --all --format='%C(auto)%h %s'`
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Isometric GitHub contribution calendar generated from public activity" width="100%">
-</p>
-
-## `$ metrics --user tumelodev-arch`
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tumelodev-arch&show_icons=true&hide_border=true&theme=transparent&bg_color=0b100d&title_color=39ff88&text_color=e8f0e9&icon_color=39ff88" alt="GitHub overview statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tumelodev-arch&layout=compact&hide_border=true&theme=transparent&bg_color=0b100d&title_color=39ff88&text_color=e8f0e9" alt="Most used languages in public repositories">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tumelodev-arch&bg_color=0b100d&color=e8f0e9&line=39ff88&point=39ff88&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%">
-</p>
-
-## `$ cat ~/.engineering-principles`
-
-```text
-01  Reproduce the behaviour before changing code.
-02  Separate evidence from assumptions.
-03  Make rules explicit and test invalid paths.
-04  Prefer useful explanations over opaque status.
-05  State limitations; do not oversell prototypes.
-06  Use AI as a reviewer, then verify the result independently.
-```
-
-## `$ tail -n 3 notes.log`
+## Engineering notes
 
 - [A failing build is evidence, not a diagnosis](https://tumelodev-arch.github.io/notes.html#note-001)
 - [Validation is part of the domain](https://tumelodev-arch.github.io/notes.html#note-002)
 - [Write down what would disprove the hypothesis](https://tumelodev-arch.github.io/notes.html#note-003)
 
-## `$ contact --open`
-
-```console
-tumelo@github:~$ printf "LinkedIn: %s\nPortfolio: %s\n" \
-  "linkedin.com/in/tumelo-junior-phale-a6579527b" \
-  "tumelodev-arch.github.io"
-```
-
-<p align="center">
-  <sub>Built with intent. Documented with evidence. Improving one useful change at a time.</sub>
-</p>
+I use public projects to document what I can demonstrate, what I have learned and what remains to be built. Professional experience is described at a high level; examples use invented data and do not expose employer code or proprietary rules.
